@@ -14,11 +14,11 @@
 const biography = {
     hobbies: ['Coding', 'Drinking coffee'],
     code: [Python, GoLang, Javascript, Java, Cpp, Php, Lua],
-    tools: [Django, Pandas, Pyqt, Pyside2, React, Redux, Node, Android, Docker],
+    tools: [Django, Pandas, Node, React, Redux, Android, Docker],
     working_on: [Yaplee, Abridev, Mux],
     targets: [
-      "Complete the CodeForOneYear challenge!",
-      "Complete personal projects that will be unveiled soon :)",
+      'Complete the CodeForOneYear challenge!',
+      'Complete personal projects that will be unveiled soon :)',
     ]
 }
 ```
