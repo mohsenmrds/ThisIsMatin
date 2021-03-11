@@ -12,14 +12,10 @@
 
 ```javascript
 const biography = {
-    hobbies: [
-      'Coding small and wonderful ideas',
-      'Talk to my friends',
-      'Drinking coffee',
-    ],
-    code: [python, golang, javascript, java, cpp, php, lua],
-    tools: [django, pandas, pyqt, pyside2, react, redux, node, android, docker],
-    working_on: [yaplee, abridev, mux],
+    hobbies: ['Coding', 'Drinking coffee'],
+    code: [Python, GoLang, Javascript, Java, Cpp, Php, Lua],
+    tools: [Django, Pandas, Pyqt, Pyside2, React, Redux, Node, Android, Docker],
+    working_on: [Yaplee, Abridev, Mux],
     targets: [
       "Complete the CodeForOneYear challenge!",
       "Complete personal projects that will be unveiled soon :)",
