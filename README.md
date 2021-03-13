@@ -1,6 +1,6 @@
 <h2> Hi, I am Matin!</h2>
 
-<p><em><img src="https://raw.githubusercontent.com/ThisIsMatin/ThisIsMatin/main/assets/anim3.gif" width="16"> Computer student and developer</br>
+<p><em><img src="https://raw.githubusercontent.com/ThisIsMatin/ThisIsMatin/main/assets/anim3.gif" width="16"> Computer student and programming instructor</br>
 <img src="https://raw.githubusercontent.com/ThisIsMatin/ThisIsMatin/main/assets/anim3.gif" width="16"> Developer of the <a href="https://www.github.com/yapleeproject">Yaplee framework</a>
 </em></p>
 
