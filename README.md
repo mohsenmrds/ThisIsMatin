@@ -6,7 +6,7 @@
 
 [![Github: ThisIsMatin](https://img.shields.io/badge/ThisIsMatin-black?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ThisIsMatin/)](https://www.github.com/ThisIsMatin/)
 [![Twitter: ThisIsMatin](https://img.shields.io/badge/ThisIsMatin-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ThisIsMatin/)](https://www.twitter.com/ThisIsMatin/)
-[![DevTo: Matin](https://img.shields.io/badge/ThisIsMatin-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.thisismatin.medium.com)](https://www.thisismatin.medium.com)
+[![DevTo: Matin](https://img.shields.io/badge/ThisIsMatin-black?style=flat-square&logo=Medium&logoColor=white&link=https://thisismatin.medium.com/)](https://thisismatin.medium.com/)
 
 ### <img src="https://raw.githubusercontent.com/ThisIsMatin/ThisIsMatin/main/assets/anim1.gif" width="20"> About me
 
