@@ -1,6 +1,6 @@
 <h2> Hi, I am Matin!</h2>
 
-<p><em><img src="https://raw.githubusercontent.com/ThisIsMatin/ThisIsMatin/main/assets/anim3.gif" width="16"> Interested in computer science and software developer
+<p><em><img src="https://raw.githubusercontent.com/ThisIsMatin/ThisIsMatin/main/assets/anim3.gif" width="16"> Interested in computer science and software developer </p></em>
 
 [![Github: ThisIsMatin](https://img.shields.io/badge/ThisIsMatin-black?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ThisIsMatin/)](https://www.github.com/ThisIsMatin/)
 [![Youtube: ThisIsMatin](https://img.shields.io/badge/ThisIsMatin-black?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/c/ThisIsMatin)](https://youtube.com/c/ThisIsMatin)
